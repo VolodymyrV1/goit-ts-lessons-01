@@ -6,5 +6,8 @@ import './style.css'
 // import './03-arrays';
 // import './04-types';
 // import './05-functions';
-import './06-enum';
+// import './06-enum';
+// import './07-generics'
+// import './08-promises'
+// import './09-http'
 
