@@ -5,5 +5,6 @@ import './style.css'
 // import './02-objects';
 // import './03-arrays';
 // import './04-types';
-import './05-functions'
+// import './05-functions';
+import './06-enum';
 
