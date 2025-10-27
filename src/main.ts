@@ -11,3 +11,8 @@ import './style.css'
 // import './08-promises'
 // import './09-http'
 
+/**
+ * How to compile this file
+ *
+ * npx tsc ./src/08-promises.ts --target esnext
+ */
